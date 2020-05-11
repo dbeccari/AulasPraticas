@@ -1,2 +1,6 @@
 server:
   port: 8080
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://aula1:admin@aula1-7laub.mongodb.net/test?retryWrites=true&w=majority
